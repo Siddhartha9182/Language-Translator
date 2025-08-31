@@ -1,5 +1,5 @@
 # 🚀 Project Title 
-A Language Translator 
+## A Language Translator ##
 
 # 📌 Description
 This is a Language Translator project that converts text from one language to another using Python and Google Translate API.
